@@ -16,3 +16,15 @@ astsu --configure
 ``` 
 And answer the questions, like:
 [![Screenshot](screenshot.png)](screenshot.png)
+
+To start and configure the firewall, type
+```
+astsu --start
+```
+
+Se você deseja retornar ao padrão, digite
+```
+astsu --set-default
+```
+
+> ## If you find a bug, or want to add something to the tool, send a issue or a pull request.
