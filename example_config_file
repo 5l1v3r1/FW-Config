@@ -1,0 +1,5 @@
+0   :   Ignore all icmp requests
+1   :   Ignore all icmp broadcast requests
+1   :   Enable TCP SYN cookies
+14  :   Configure connections limit per ip
+7   :   UDP packet limit per second
