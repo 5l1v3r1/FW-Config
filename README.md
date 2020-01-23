@@ -1,2 +1,2 @@
-# astsu - A firewall configuration tool
+# astsu.sh - A firewall configuration tool
 ### A firewall configuration tool
