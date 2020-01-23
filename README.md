@@ -9,3 +9,10 @@ First install the tool
 chmod +x install.sh
 ./install.sh
 ```
+
+To configure type 
+``` 
+astsu --configure 
+``` 
+And answer the questions, like:
+```
