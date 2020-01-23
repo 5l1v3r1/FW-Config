@@ -15,4 +15,4 @@ To configure type
 astsu --configure 
 ``` 
 And answer the questions, like:
-```
+[![Screenshot](screenshot.png)](screenshot.png)
