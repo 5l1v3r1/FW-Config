@@ -1,2 +1,2 @@
-# astsu
-A firewall configuration tool
+# ASTSU
+### A firewall configuration tool
