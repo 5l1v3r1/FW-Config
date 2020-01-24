@@ -22,7 +22,7 @@ To start and configure the firewall, type
 astsu --start
 ```
 
-Se você deseja retornar ao padrão, digite
+If you want to return to the default, type
 ```
 astsu --set-default
 ```
